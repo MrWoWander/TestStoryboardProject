@@ -295,7 +295,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ZBVHAA67XK;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TestUIKitProject/Info.plist;
+				INFOPLIST_FILE = TestStoryboardProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -307,7 +307,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ru.RTUITLab.TestUIKitProject;
+				PRODUCT_BUNDLE_IDENTIFIER = ru.RTUITLab.TestStoryboardProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -324,7 +324,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ZBVHAA67XK;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TestUIKitProject/Info.plist;
+				INFOPLIST_FILE = TestStoryboardProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -336,7 +336,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ru.RTUITLab.TestUIKitProject;
+				PRODUCT_BUNDLE_IDENTIFIER = ru.RTUITLab.TestStoryboardProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
